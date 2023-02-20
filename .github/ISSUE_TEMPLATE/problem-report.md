@@ -2,7 +2,7 @@
 name: Problem report
 about: 'Report a problem being faced '
 title: ''
-labels: bug
+labels: problem
 assignees: ''
 
 ---
