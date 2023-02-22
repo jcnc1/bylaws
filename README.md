@@ -6,7 +6,32 @@ JCNC Bylaws are rules established by JCNC so as to regulate itself
 
 Since its [founding in 1981](https://drive.google.com/file/d/1AgSmuoCeExZIMUGGNjq4glENWof04XBs/view), JCNC has been governed by a systematically maintained set of bylaws. In its current form, the [3rd amended JCNC bylaws](https://drive.google.com/file/d/1ttBRhjWV8vl3ofcOPTCi8lheEgXcdoAp/view) took effect on Nov 17, 2012.
 
-The process of amending JCNC bylaws are documented in the bylaws itself in Article 15. 
+
+# Table of Contents 
+1. [OFFICE](/articles/article-1.md)
+1. [DEFINITIONS](/articles/article-2.md)
+1. [PURPOSES](/articles/article-3.md)
+1. [GENERAL MEMBERSHIP](/articles/article-4.md)
+1. [BENEFACTORS](/articles/article-5.md)
+1. [BOARD OF DIRECTORS](/articles/article-6.md)
+1. [EXECUTIVE COMMITTEE](/articles/article-7.md)
+1. [COMMITTEES AND SUBCOMMITTEES FOR THE BOD AND EC](/articles/article-8.md)
+1. [ELECTIONS](/articles/article-9.md)
+1. [EXECUTION OF INSTRUMENTS, DEPOSITS AND FUNDS](/articles/article-10.md)
+1. [INDEMNIFICATION/INSURANCE](/articles/article-11.md)
+1. [CORPORATE RECORDS, REPORTS AND SEAL](/articles/article-12.md)
+1. [INSPECTION RIGHTS](/articles/article-13.md)
+1. [FISCAL POLICY](/articles/article-14.md)
+1. [AMENDMENT OF BYLAWS](/articles/article-15.md)
+1. [IRC 501(C)(3) TAX EXEMPTION PROVISIONS](/articles/article-16.md)
+1. [DISSOLUTION/DISTRIBUTION OF ASSETS](/articles/article-17.md)
+1. [APPLICATION OF LAW](/articles/article-18.md)
+1. [CONFLICT RESOLUTION](/articles/article-19.md)
+1. [COMPENSATION FOR MEMBERS, EC MEMBERS, BOARD MEMBERS](/articles/article-20.md)
+1. [ADOPTION OF THE THIRD AMENDED BYLAWS](/articles/article-21.md)
+
+# Process of amending these bylaws
+The process of amending JCNC bylaws are documented in the bylaws itself in [Article 15](/articles/article-15.md). 
 
 ## SECTION A. AMENDMENT
 Subject to any provision of law applicable to the amendment of bylaws under the California Nonprofit Corporations Code, these Bylaws or any portion of them may be altered, amended, or repealed and/ or new Bylaws adopted as follows:
